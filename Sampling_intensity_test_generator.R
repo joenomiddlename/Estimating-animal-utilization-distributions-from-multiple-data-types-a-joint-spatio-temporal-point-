@@ -1,3 +1,4 @@
+# Generate a single realisation of whale watch effort
 # Sampling intensity MC sample compiler function
 #.libPaths('/zfs/users/joe.watson/joe.watson/rlibs')
 
